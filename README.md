@@ -26,7 +26,7 @@
 
 I'm a Year 3 Software Engineering student with a secondary stream in **Software Testing**, interested in full-stack development, machine learning, and building systems that solve real problems.
 
-- 🎓 **27 subjects passed · 19 distinctions · 0 failures** · Weighted avg: **66.3%** · 240 credits
+- 🎓 **33 subjects passed · 22 distinctions · 0 failures** · Weighted avg: **70.4%** · 288 credits
 - 🔍 Actively seeking a **practical-year placement** to contribute to live production projects
 - 🌍 Based in **Pretoria, South Africa**
 - 📬 Reach me at **vronkanicholas@gmail.com**
